@@ -85,4 +85,4 @@ Planning to add **sliding rails** for WS2812B strips:
 
 Slide for LEDS, but how do I fix it? 
 No idea lol
-
+After A lot of brainstorming, my idea is to use a neo
