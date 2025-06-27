@@ -22,18 +22,13 @@ This setup allows this layout:
 ![Layout](https://github.com/user-attachments/assets/7193a171-dd17-445b-868b-73dc5ac8ab1e)
 
 Designed conforming with this layout:  
-![Fan Case](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395)  
-![Also Fan Lol](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
-
-**Total time spent: 5h**
-
----
-
-### Magnet Integration
+![Fan Case](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395) 
 
 Holes added to embed **neodymium magnets** for tool-less assembly:  
-![Magnet Holes](https://github.com/user-attachments/assets/63ab9967-0384-4826-8ca9-1ecd3cd61dab)  
+![Magneto](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
 ![Neodymium Magnets](https://github.com/user-attachments/assets/60aa222c-18e8-44f1-af43-2551c76b5584)
+
+**Total time spent: 5h**
 
 ---
 
@@ -41,6 +36,8 @@ Holes added to embed **neodymium magnets** for tool-less assembly:
 
 - Applied fillets for smoother corners  
   ![Fillets](https://github.com/user-attachments/assets/f08adb94-8b14-4f51-a1ed-7486d4a8843a)
+  ![Fillet](https://github.com/user-attachments/assets/63ab9967-0384-4826-8ca9-1ecd3cd61dab)  
+
 - Added alignment tabs  
   ![Alignment Tab](https://github.com/user-attachments/assets/55e59318-e8b3-46a4-9afb-e8d176820762)  
   ![Tab Slot](https://github.com/user-attachments/assets/8d78f0bc-efd2-40da-b093-30ab285be5a5)
