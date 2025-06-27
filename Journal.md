@@ -82,7 +82,23 @@ Planning to add **sliding rails** for WS2812B strips:
 ![More Rails](https://github.com/user-attachments/assets/97e43991-d02b-4c14-8b2b-1f5bcafa7527)
 
 ![image](https://github.com/user-attachments/assets/6a686760-d355-46d4-94bf-00444f162e23)
-
+6/27
 Slide for LEDS, but how do I fix it? 
 No idea lol
-After A lot of brainstorming, my idea is to use a neo
+After A lot of brainstorming, my idea is to use a neodyniam magnets. Although At first I hated my idea, I believe it would look sleek, clean, and would be easy to remove and reapply. 
+![image](https://github.com/user-attachments/assets/078cb473-4579-43cc-a03d-5535191a0fc1)
+
+For my screen, after a lot of research, I was not able to find my exact screen. Instead, I found a very similar one that does not contain my ports, so I am able to create a case as such without any information about ports (the best sketch available is )!
+https://www.waveshare.com/4.3inch-HDMI-LCD-B.htm
+![image](https://github.com/user-attachments/assets/b7ad5964-fbdf-43c8-bb91-b195f933497e)
+
+I gave 10 mm on all sides, with the rioght hand side having a cutout portion due cables as well as the top:
+![image](https://github.com/user-attachments/assets/b3930237-78b4-4646-a187-238d99199a52)
+![image](https://github.com/user-attachments/assets/61ea1794-9dbd-473c-90fe-ebcfc4da5365)
+to cover the top, I will refine the model to be parrelel with the screen
+![image](https://github.com/user-attachments/assets/f035eaf7-d4e4-4ca0-8762-4102c2b7db6a)
+After filleting all edges, I am done!
+![image](https://github.com/user-attachments/assets/7a48b7cb-0c8e-43d6-abef-eef99822f65b)
+
+![image](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
+
