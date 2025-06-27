@@ -1,44 +1,79 @@
-6/25
+# Raspberry Pi Magnetic PETG Case — Ender 3 Cooling Mod (6/25)
 
-Goal: Case for my ender 3, focused on cooling. I choose to make it magnetic as its kinda cool lol + satistying. It also featued 2 30m fans (since a rasberry pi 02w is 30mmx65mm.)
+## Goal
+Design and print a custom **PETG case for my Ender 3** focused on cooling and modularity.  
+Key features:
+- Magnetic attachment cuz fire
+- Dual 30mm fans (perfect match for the 30mm × 65mm Raspberry Pi Zero 2 W)
 
-This allows a layout as such: 
+---
+6/25/2025
+This setup allows a compact layout with directional airflow:
 
- ![image](https://github.com/user-attachments/assets/7193a171-dd17-445b-868b-73dc5ac8ab1e)
+![Layout](https://github.com/user-attachments/assets/7193a171-dd17-445b-868b-73dc5ac8ab1e)
 
+---
 
-![image](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395)
-fan case based off that 
+Design inspired by this fan case reference:
 
-![image](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
+![Fan Case](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395)  
+![Modified Design](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
 
-hoels for magnets
+---
 
-![image](https://github.com/user-attachments/assets/63ab9967-0384-4826-8ca9-1ecd3cd61dab)
+## 🧲 Magnet Integration
+Holes added to embed **neodymium magnets** for tool-less assembly:
 
-after that, I applied filets,
-![image](https://github.com/user-attachments/assets/f08adb94-8b14-4f51-a1ed-7486d4a8843a)
-soemthing for the print to allign 
-![image](https://github.com/user-attachments/assets/55e59318-e8b3-46a4-9afb-e8d176820762)
-othjer case side 
-![image](https://github.com/user-attachments/assets/24354a62-7fb9-4df8-8bf4-b49d51dd03f6)
-cover
-![image](https://github.com/user-attachments/assets/382b640b-e576-407e-bafa-faf6cd6786c1)
-rpi holes
-![image](https://github.com/user-attachments/assets/a10bafca-de03-4d51-933a-a2e635011476)
-hole sor the alliging thing to allign into 
-![image](https://github.com/user-attachments/assets/8d78f0bc-efd2-40da-b093-30ab285be5a5)
-Neodymium Magnets
-![image](https://github.com/user-attachments/assets/60aa222c-18e8-44f1-af43-2551c76b5584)
+![Magnet Holes](https://github.com/user-attachments/assets/63ab9967-0384-4826-8ca9-1ecd3cd61dab)  
+![Neodymium Magnets](https://github.com/user-attachments/assets/60aa222c-18e8-44f1-af43-2551c76b5584)
 
-Assembly:
-![image](https://github.com/user-attachments/assets/1e37d00f-fcf2-43e2-a7d1-22d7578a734c)
+---
 
-I have rto remove material from tghis side for my cables:
+### ✨ Post-Processing Enhancements
+- Applied fillets for smoother corners  
+![Fillets](https://github.com/user-attachments/assets/f08adb94-8b14-4f51-a1ed-7486d4a8843a)
 
-![image](https://github.com/user-attachments/assets/90cd0a44-a664-41f1-b0b8-834a8f0094bc)
+- Added alignment tabs  
+![Alignment Tab](https://github.com/user-attachments/assets/55e59318-e8b3-46a4-9afb-e8d176820762)  
+![Tab Slot](https://github.com/user-attachments/assets/8d78f0bc-efd2-40da-b093-30ab285be5a5)
 
-![image](https://github.com/user-attachments/assets/04eccf04-4a87-4f5b-8e0a-34f024239bc8)
-Cable Holes:
+---
 
-![image](https://github.com/user-attachments/assets/dbdd7ae3-2589-4436-8a20-fbb0d2a76995)
+## 🧱 Final Parts Breakdown
+
+### Side Panels
+![Side Panel](https://github.com/user-attachments/assets/24354a62-7fb9-4df8-8bf4-b49d51dd03f6)
+
+### Top Cover
+![Top Cover](https://github.com/user-attachments/assets/382b640b-e576-407e-bafa-faf6cd6786c1)
+
+### Pi Mount Holes
+![RPi Holes](https://github.com/user-attachments/assets/a10bafca-de03-4d51-933a-a2e635011476)
+
+---
+
+## 🔌 Cable Management
+
+Had to remove material for easier cable access:
+
+![Cable Opening](https://github.com/user-attachments/assets/90cd0a44-a664-41f1-b0b8-834a8f0094bc)  
+![Shaving Detail](https://github.com/user-attachments/assets/04eccf04-4a87-4f5b-8e0a-34f024239bc8)
+
+Added proper cable holes:
+
+![Cable Holes](https://github.com/user-attachments/assets/dbdd7ae3-2589-4436-8a20-fbb0d2a76995)
+
+---
+
+## 💡 LED Integration
+
+Planning to add **sliding rails** for WS2812B strips:
+
+![LED Rails](https://github.com/user-attachments/assets/73b76ade-cd06-446a-8979-976c9e1852ac)  
+![More Rails](https://github.com/user-attachments/assets/97e43991-d02b-4c14-8b2b-1f5bcafa7527)
+
+---
+
+## 🧩 Assembly Preview
+
+![Assembled View](https://github.com/user-attachments/assets/1e37d00f-fcf2-43e2-a7d1-22d7578a734c)
