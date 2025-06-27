@@ -8,20 +8,20 @@ Key features:
 
 ---
 6/25/2025
-This setup allows a compact layout with directional airflow:
+This setup allows this layout:
 
 ![Layout](https://github.com/user-attachments/assets/7193a171-dd17-445b-868b-73dc5ac8ab1e)
 
 ---
 
-Design inspired by this fan case reference:
+Design conforming with that  
 
 ![Fan Case](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395)  
-![Modified Design](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
+![Also Fan Lol](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
 
 ---
 
-## 🧲 Magnet Integration
+## Magnet Integration
 Holes added to embed **neodymium magnets** for tool-less assembly:
 
 ![Magnet Holes](https://github.com/user-attachments/assets/63ab9967-0384-4826-8ca9-1ecd3cd61dab)  
@@ -29,7 +29,7 @@ Holes added to embed **neodymium magnets** for tool-less assembly:
 
 ---
 
-### ✨ Post-Processing Enhancements
+
 - Applied fillets for smoother corners  
 ![Fillets](https://github.com/user-attachments/assets/f08adb94-8b14-4f51-a1ed-7486d4a8843a)
 
@@ -39,7 +39,7 @@ Holes added to embed **neodymium magnets** for tool-less assembly:
 
 ---
 
-## 🧱 Final Parts Breakdown
+Final Parts Breakdown
 
 ### Side Panels
 ![Side Panel](https://github.com/user-attachments/assets/24354a62-7fb9-4df8-8bf4-b49d51dd03f6)
