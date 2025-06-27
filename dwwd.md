@@ -25,7 +25,7 @@ Designed conforming with this layout:
 ![Fan Case](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395)  
 ![Also Fan Lol](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
 
-**Total time spent: 7h**
+**Total time spent: 5h**
 
 ---
 
@@ -46,6 +46,7 @@ Holes added to embed **neodymium magnets** for tool-less assembly:
   ![Tab Slot](https://github.com/user-attachments/assets/8d78f0bc-efd2-40da-b093-30ab285be5a5)
 
 ---
+**Total time spent: 5h**
 
 ### 6/26/2025 — Final Parts Breakdown
 
