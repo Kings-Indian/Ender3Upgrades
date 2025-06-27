@@ -39,6 +39,8 @@ Holes added to embed **neodymium magnets** for tool-less assembly:
 
 ---
 
+6/26/2025
+
 Final Parts Breakdown
 
 ### Side Panels
@@ -63,6 +65,13 @@ Added proper cable holes:
 
 ![Cable Holes](https://github.com/user-attachments/assets/dbdd7ae3-2589-4436-8a20-fbb0d2a76995)
 
+
+---
+
+## 🧩 Assembly Preview
+
+![Assembled View](https://github.com/user-attachments/assets/1e37d00f-fcf2-43e2-a7d1-22d7578a734c)
+
 ---
 
 ## 💡 LED Integration
@@ -72,8 +81,8 @@ Planning to add **sliding rails** for WS2812B strips:
 ![LED Rails](https://github.com/user-attachments/assets/73b76ade-cd06-446a-8979-976c9e1852ac)  
 ![More Rails](https://github.com/user-attachments/assets/97e43991-d02b-4c14-8b2b-1f5bcafa7527)
 
----
+![image](https://github.com/user-attachments/assets/6a686760-d355-46d4-94bf-00444f162e23)
 
-## 🧩 Assembly Preview
+Slide for LEDS, but how do I fix it? 
+No idea lol
 
-![Assembled View](https://github.com/user-attachments/assets/1e37d00f-fcf2-43e2-a7d1-22d7578a734c)
