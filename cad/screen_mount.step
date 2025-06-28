@@ -1,0 +1,8 @@
+# This is a placeholder for the screen mount STEP file
+# The actual STEP file should be exported from your CAD software
+# and contain the 3D model of the screen mounting bracket with:
+# - Waveshare 4.3" LCD mounting holes
+# - 10mm margin around screen
+# - Cable clearance cutouts
+# - Fillets on all edges
+# - Mounting points for case attachment 
