@@ -98,6 +98,9 @@ Had some issues with the LED slide design initially. After brainstorming, I real
 ![LED Rail Design](https://github.com/user-attachments/assets/078cb473-4579-43cc-a03d-5535191a0fc1)
 
 **Total time spent: 1h**
+For the screen, I couldn’t find the exact model online. I based my design on this similar model. While I am using 
+[Waveshare 4.3" HDMI LCD-B](https://www.waveshare.com/4.3inch-HDMI-LCD-B.htm), the model is of https://www.waveshare.com/4.3inch-dsi-lcd.htm
+![image](https://github.com/user-attachments/assets/b7ad5964-fbdf-43c8-bb91-b195f933497e)
 
 Added a **10mm margin** on all sides, with a cutout on the right and top for cable clearance:  
 ![image](https://github.com/user-attachments/assets/b3930237-78b4-4646-a187-238d99199a52)  
