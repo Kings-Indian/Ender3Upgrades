@@ -91,7 +91,7 @@ Slide for LEDS—wasn't sure how to fix at first. After brainstorming, I realize
 ![image](https://github.com/user-attachments/assets/078cb473-4579-43cc-a03d-5535191a0fc1)
 **Total time spent: 1h**
 For the screen, I couldn’t find the exact model online. I based my design on this similar model. While I am using 
-[Waveshare 4.3" HDMI LCD-B](https://www.waveshare.com/4.3inch-HDMI-LCD-B.htm), 
+[Waveshare 4.3" HDMI LCD-B](https://www.waveshare.com/4.3inch-HDMI-LCD-B.htm), the model is of https://www.waveshare.com/4.3inch-dsi-lcd.htm
 ![image](https://github.com/user-attachments/assets/b7ad5964-fbdf-43c8-bb91-b195f933497e)
 
 Added a **10mm margin** on all sides, with a cutout on the right and top for cable clearance:  
@@ -105,7 +105,7 @@ After applying **fillets to all edges**, final design complete:
 ![image](https://github.com/user-attachments/assets/7a48b7cb-0c8e-43d6-abef-eef99822f65b)  
 ![image](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
 
-**Total time spent: 9h**
+**Total time spent: 5h**
 
 ---
 
