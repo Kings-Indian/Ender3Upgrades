@@ -9,27 +9,13 @@ I needed a reliable cooling solution for my Raspberry Pi Zero 2 W that was runni
 
 - **Magnetic Attachment**: Tool-less assembly using neodymium magnets
 - **Dual 30mm Fans**: Perfect cooling for the Raspberry Pi Zero 2 W
-- **LED Integration**: WS2812B strip support for ambient lighting
+- **LED Integration**: WS2812B strip support for cool lighting
 - **Modular Screen Mount**: Compatible with Waveshare 4.3" HDMI LCD
-- **Cable Management**: Clean routing with dedicated cable holes
-- **PETG Construction**: Durable and heat-resistant material
-
+  
 ## Project Pictures
 
-### Full 3D Model Screenshot
-![Full 3D Model](https://github.com/user-attachments/assets/7a48b7cb-0c8e-43d6-abef-eef99822f65b)
-
-### Assembled View
-![Assembled View](https://github.com/user-attachments/assets/1e37d00f-fcf2-43e2-a7d1-22d7578a734c)
-
-### Case Components
-![Case Components](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395)
-
-### LED Rail Design
-![LED Rail Design](https://github.com/user-attachments/assets/078cb473-4579-43cc-a03d-5535191a0fc1)
-
-### Screen Mount
-![Screen Mount](https://github.com/user-attachments/assets/b3930237-78b4-4646-a187-238d99199a52)
+![image](https://github.com/user-attachments/assets/fbc9cd17-76ba-417f-a3e0-91f335526c5e)
+![image](https://github.com/user-attachments/assets/f66e6bb1-151b-426f-9b11-d720dfd0cbe5)
 
 ## Wiring Diagram
 
@@ -60,12 +46,6 @@ Raspberry Pi Zero 2 W
 
 ## CAD Source Files
 
-The CAD source files are located in the `cad/` directory:
-- `case_main.step` - Main case body
-- `case_top.step` - Top cover
-- `screen_mount.step` - Screen mounting bracket
-- `led_rails.step` - LED strip mounting rails
-- `fan_grill.step` - Fan protection grill
 
 ## Bill of Materials (BOM)
 
@@ -83,13 +63,3 @@ The CAD source files are located in the `cad/` directory:
 | 10 | Micro USB Cable | 1 | Micro USB to USB | Amazon | For power supply |
 | 11 | GPIO Header Pins | 1 | 40-pin header | Adafruit | For LED strip connection |
 | 12 | Heat Set Inserts (M3) | 4 | M3 heat set | McMaster-Carr | For threaded inserts in 3D printed parts |
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Inspired by the need for better cooling solutions for 3D printer control systems
-- Thanks to the Klipper community for firmware support
-- Special thanks to Waveshare for the LCD display specifications 
