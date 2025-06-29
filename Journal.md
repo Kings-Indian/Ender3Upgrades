@@ -7,7 +7,7 @@ created_at: "2025-06-25"
 
 # Raspberry Pi Magnetic PETG Case
 
-**Total time spent: 20h**
+**Total time spent: 20.5h**
 
 ## Goal
 Design and print a custom **PETG case for my Ender 3** focused on cooling and modularity.  
@@ -114,4 +114,18 @@ After applying **fillets to all edges**, final design complete:
 ![image](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
 
 **Total time spent: 6h**
+
+
+# June 28th: I realised instead of gluing it in, I can print over it by simply adding a "stop" command in klipper!
+
+Firs,t I added a variable of the amt of layers of PLA. For now, for 2 layers, im using 0.4 mm. With too much layers, im scared of loss of magnetic connection. Then, Ill just cover it as such:
+
+![image](https://github.com/user-attachments/assets/6587d8e9-1090-4525-8269-6792d2dfc911)
+![image](https://github.com/user-attachments/assets/fc2bb48c-292c-404d-9a8b-ca3882056373)
+
+
+[insert pictures of what you're working on!]
+
+**Total time spent: .5h**
+
 
