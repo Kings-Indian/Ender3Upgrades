@@ -1,5 +1,4 @@
-# Raspberry Pi Magnetic PETG Case — Ender 3 Cooling Mod
-
+# Raspberry Pi Magnetic PETG CasE
 A custom magnetic PETG case designed specifically for the Raspberry Pi Zero 2 W, featuring dual fan cooling, LED support, and a modular screen mount. This case is designed to mount securely to an Ender 3 3D printer for enhanced cooling and monitoring capabilities.
 
 ## Why I Made This Project
