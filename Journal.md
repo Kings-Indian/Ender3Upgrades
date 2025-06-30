@@ -128,4 +128,22 @@ Firs,t I added a variable of the amt of layers of PLA. For now, for 2 layers, im
 
 **Total time spent: .5h**
 
-image.png
+6/29/2024
+
+I realised how bad this cover is. I believe it deserves more love
+![image](https://github.com/user-attachments/assets/d6439985-69f3-470a-b89c-7e9e84a51a1c) (this one is fine )
+
+Since there just for allignment, ill make them much smaller and farther form the magnets.
+I redid that part with a simular idea:
+![image](https://github.com/user-attachments/assets/2b77f6b4-1c7e-4880-9d6c-62e1e3304eb3)
+
+I also realized how hard it is to read, so I reorganized the features
+![image](https://github.com/user-attachments/assets/f49b9b99-1076-4ce4-8964-c0adc00100e1)
+
+![image](https://github.com/user-attachments/assets/88f8aea3-d8e9-42e5-b962-135b6715a6ea)
+
+I then fixed up the assembly once more:
+
+![image](https://github.com/user-attachments/assets/6e07dfd6-8b01-4877-a369-e2f6e5e0fa34)
+
+![image](https://github.com/user-attachments/assets/89b34f58-6893-455c-9d8f-89ca73dbde79)
