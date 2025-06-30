@@ -128,4 +128,4 @@ Firs,t I added a variable of the amt of layers of PLA. For now, for 2 layers, im
 
 **Total time spent: .5h**
 
-
+image.png
