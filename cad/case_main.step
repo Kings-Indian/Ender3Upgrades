@@ -1,8 +1,0 @@
-# This is a placeholder for the main case STEP file
-# The actual STEP file should be exported from your CAD software
-# and contain the 3D model of the main case body with:
-# - Raspberry Pi mounting holes
-# - Dual 30mm fan mounts
-# - Neodymium magnet holes
-# - Cable management openings
-# - Alignment tabs and slots 
