@@ -7,7 +7,7 @@ created_at: "2025-06-25"
 
 # Raspberry Pi Magnetic PETG Case
 
-**Total time spent: 20.5h**
+**Total time spent: 21h**
 
 ## Goal
 Design and print a custom **PETG case for my Ender 3** focused on cooling and modularity.  
@@ -113,7 +113,7 @@ After applying **fillets to all edges**, final design complete:
 ![image](https://github.com/user-attachments/assets/7a48b7cb-0c8e-43d6-abef-eef99822f65b)  
 ![image](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
 
-**Total time spent: 6h**
+**Total time spent: 5h**
 
 
 # June 28th: I realised instead of gluing it in, I can print over it by simply adding a "stop" command in klipper!
@@ -147,3 +147,5 @@ I then fixed up the assembly once more:
 ![image](https://github.com/user-attachments/assets/6e07dfd6-8b01-4877-a369-e2f6e5e0fa34)
 
 ![image](https://github.com/user-attachments/assets/89b34f58-6893-455c-9d8f-89ca73dbde79)
+**Total time spent: 1.5h**
+
