@@ -149,3 +149,6 @@ I then fixed up the assembly once more:
 ![image](https://github.com/user-attachments/assets/89b34f58-6893-455c-9d8f-89ca73dbde79)
 **Total time spent: 1.5h**
 
+I also decided to add camera mounts and leds to the printer for lighting.
+
+First, I incrased the space it has for flexability and for the SD Card and camera. 
