@@ -150,5 +150,17 @@ I then fixed up the assembly once more:
 **Total time spent: 1.5h**
 
 I also decided to add camera mounts and leds to the printer for lighting.
-
+After a lot of thought, I will start modeling the Rasberry Pi 3 camera mount. Although the right side is easier to model with, soley due to my current setup I am modeling everything on the left. 
 First, I incrased the space it has for flexability and for the SD Card and camera. 
+
+After looking at joints, it seems a typical butt hinge and other common hinges arent good for my purpose (based off https://www.youtube.com/watch?v=fbY7xHGaeNM.) I will try to make a design similar to a normal door hinge to increase traction, allowing the pi to be held in place:
+
+![image](https://github.com/user-attachments/assets/2f6b576b-b802-4e60-9075-0554eb48dc3d)
+
+First, I decided to keep it only rotatable on the z axis. There was no real reason I saw I would want motion on the Y axis, since I want the nozzle always centered. I also wanted to keep the camera from hitting the toolhead, the FOV from seeing the Z Pole , and planned to mount it to the tensioner. This transalates to my sketch:
+
+![image](https://github.com/user-attachments/assets/591efda1-2ded-412c-b51e-458ace88fff1)|
+I am accounting for the space betweeb the lense and back of the pi as tolerance for the pi not hitting the z Gantry. 
+
+
+
