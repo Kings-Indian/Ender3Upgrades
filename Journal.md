@@ -162,5 +162,8 @@ First, I decided to keep it only rotatable on the z axis. There was no real reas
 ![image](https://github.com/user-attachments/assets/591efda1-2ded-412c-b51e-458ace88fff1)|
 I am accounting for the space betweeb the lense and back of the pi as tolerance for the pi not hitting the z Gantry. 
 
+I chose the Raspberry Pi Camera Module 3 over the other Pi models because it delivers sharper 4K timelapses, handles low-light printing conditions better with its f/1.8 aperture, and offers autofocus flexibility. Due to the 120 Percent fov, I ex pect to angle it at about 60 sdegrees. For adjustments I still want the ability to rotat ed on the Z Axis. 
 
+![FOV at 60 degrees](https://github.com/user-attachments/assets/3c99858a-5a5b-43f2-a401-7f626624580e)
 
+Regardless, I will design this at 90 degrees for now since rotation is always possible. 
