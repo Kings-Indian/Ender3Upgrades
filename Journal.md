@@ -212,7 +212,12 @@ There isnt a danger opf the mount hitting the borttom extrusion, as there is onl
 with the klipepr case:
 ![image](https://github.com/user-attachments/assets/0a299eec-3c20-47ad-8371-43db64de69b2)
 
-now I just need to add LEDS:
+now I just need to add LEDS for the Ender 3 top 2020 profile bar:
+
+<img width="454" alt="image" src="https://github.com/user-attachments/assets/cefeb302-0130-4c77-be70-3b9e9bd9bca8" />
+
+Since it should be bright, lighting up the build plate, I will use SK6812 leds due to its -  dedicated white channel for better white light.
+
 
 
 
