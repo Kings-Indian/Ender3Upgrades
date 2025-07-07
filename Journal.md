@@ -216,9 +216,41 @@ now I just need to add LEDS for the Ender 3 top 2020 profile bar:
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/cefeb302-0130-4c77-be70-3b9e9bd9bca8" />
 
-Since it should be bright, lighting up the build plate, I will use SK6812 leds due to its -  dedicated white channel for better white light.
+Since it should be bright, lighting up the build plate, I will use SK6812 leds due to its dedicated white channel for better white light (more clear video)
+
+although I can thread it through the 2020 profile (its 10 mm, thus fitting within the 10.420mm indent of the profiles) I thought a dedicated LED sleeve would make more sense, as it would be more directly over the toolhead. This is roughly 50 mm of distance from the extrusion.
+
+The profile is very confusing. After a lot of researched I stumbled upon cad which I would use for the lights to see how much the hole which lets the lwds be seeb has to be. However, it doesnt seem to be for tthese given the visual scale (led dimensions are Product Dimensions:1000x2.13x12.0mm in https://www.amazon.com/BTF-LIGHTING-Individually-Addressable-Flexible-Non-waterproof/dp/B01MYV70QZ/ref=sr_1_4?crid=37E7K9IZQ6H7Z&dib=eyJ2IjoiMSJ9.hL7R35l27nGH6psUWgDquHFFf2hV3_F21tSlMqPORj598Mfaxul4TXNkmTW24etIWAL3LQ0KukuIRpxwqBH6DDz-2liRkneLLfWTymthFOkEA_ioIsvTKs3bkDdqh_MxwJhQhAj2JYA8ZSp6Sf9UMw.qgj4Hrbxp0vZwfdZGWjqvDBU1gNlE2L1JOaBd-XSdIY&dib_tag=se&keywords=sk6812%2Brgbw%2B144%2Fm%2Bip65&qid=1751925181&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=SK6812%2B144%2B%2Caps%2C162&sr=8-4&th=1):
+
+![image](https://github.com/user-attachments/assets/3c78fc2a-9fd9-4baa-9ed5-3ca142c86d8e)
+![image](https://github.com/user-attachments/assets/c6d0ec7b-7e9b-4d93-aee1-7688dc033a61)
+![image](https://github.com/user-attachments/assets/d519e0eb-67c0-4434-bfa5-d6af82352fcc)
+
+Instead, ill assume the led is 8mm wide. While its nto best cad practice, I dont think i havea  better option and it shouldnt matter too much:
+
+![image](https://github.com/user-attachments/assets/74b2d59b-9dec-4fe2-8233-99d934a55483) (while height dimensions might be wrong, for my purposes, it shouldnt matter. I plan to give it a 3 mm hole regardless. )
+
+![image](https://github.com/user-attachments/assets/254fa1c6-ca1e-4aef-aa12-4c87112c7409)
+
+I spent a while trying to figure it out but for some reaon the sketch would be solid so i just used the use feature to make ti solid in a different sketch:
+
+![image](https://github.com/user-attachments/assets/04ed853a-66fd-4f03-8fa6-412bcfca1c18)
+
+![image](https://github.com/user-attachments/assets/afb74036-e45e-46fc-bf76-3069dacd74a5)
+
+for printing, ill split it into 2 even blocks. Ill also enclose one end on the shelf:![image](https://github.com/user-attachments/assets/75541b46-d703-4c5d-9f17-d124435f975b)
+
+![image](https://github.com/user-attachments/assets/051449a2-3d91-4ace-96af-2e70fc26d737)
+
+After applying fillets, it should be done:
+![image](https://github.com/user-attachments/assets/bc417eec-dc10-4ed7-b65b-c22badb7a069)
+
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/70696913-9932-4444-a801-dac6a6eb2029" />
+
+![image](https://github.com/user-attachments/assets/4d950745-fe28-412c-8d15-13398029e5e2)
+beyond this, all I have left is wiring. First, I will create a hole in the RPI case for the SK6812 LEDS:
 
 
-
-
-
+![image](https://github.com/user-attachments/assets/894ebd59-03f5-4807-a5d5-a17b538ea2ed)
+![image](https://github.com/user-attachments/assets/3048d6f1-7ba9-4eb1-a7ba-34f0ae8cfae9)
+![image](https://github.com/user-attachments/assets/1b5b1a5b-f755-4968-8db6-a2257a0c1940)
