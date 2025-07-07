@@ -167,3 +167,53 @@ I chose the Raspberry Pi Camera Module 3 over the other Pi models because it del
 ![FOV at 60 degrees](https://github.com/user-attachments/assets/3c99858a-5a5b-43f2-a401-7f626624580e)
 
 Regardless, I will design this at 90 degrees for now since rotation is always possible. 
+2 hours
+7/6/2025
+
+I decided to model it at the 20 degrees (I saw the FOV wrong) with 20 degrees of mobility in both directions. Long term, I will likely use a non adjustAbble mount 
+
+Updated sketches:
+![image](https://github.com/user-attachments/assets/4bc09044-54cc-467c-9d37-e61a9420f7b3)
+![image](https://github.com/user-attachments/assets/122d9e17-44d8-41d4-845a-621c19db34a9)
+
+![image](https://github.com/user-attachments/assets/b43f7638-5f44-480a-8904-7bd8307048be)
+![image](https://github.com/user-attachments/assets/0d64517b-e438-48f3-81fe-becbb1f6438c)
+This mount lets me hasve a strong connection while letting me rotated the needed amount|
+
+This is the fional roptating camera mount
+![image](https://github.com/user-attachments/assets/404f0453-2af2-407c-8ca0-16a1fee1cf67)
+
+Hole for RPI Camera:
+
+![image](https://github.com/user-attachments/assets/d83feb99-841e-495e-b23c-82cb81ca683e)
+
+I will fasten it with a 40 mm m3 screw
+
+![image](https://github.com/user-attachments/assets/1564c699-4e36-489c-aacd-cf5f6c2bc5e8)
+
+7/7/25
+This is the finalized rotating camera mount
+![image](https://github.com/user-attachments/assets/518eac79-77e2-416b-b378-e872ebfad1dc)
+
+![image](https://github.com/user-attachments/assets/01cd4079-1078-4be7-a004-1467fdb96dfb)
+
+I decided to change tghe adjustabilty so the bottom angle is 20 degrees isnteadof 40:
+
+![image](https://github.com/user-attachments/assets/308a7edf-a3ff-4d6b-9980-6bc48546c4bf)
+
+
+![image](https://github.com/user-attachments/assets/cdfdac68-9f58-4746-a88d-dfe72d2ad9f8)
+
+![image](https://github.com/user-attachments/assets/81517231-412d-49c0-a2d2-6594ed60dee3)
+There isnt a danger opf the mount hitting the borttom extrusion, as there is only 16 mm of difference in the z axis:
+
+![image](https://github.com/user-attachments/assets/03ff13d4-ff27-4137-99e8-04d705fccd87)
+![image](https://github.com/user-attachments/assets/3793117a-9fd4-4d8c-a075-8072e004023b)
+with the klipepr case:
+![image](https://github.com/user-attachments/assets/0a299eec-3c20-47ad-8371-43db64de69b2)
+
+now I just need to add LEDS:
+
+
+
+
