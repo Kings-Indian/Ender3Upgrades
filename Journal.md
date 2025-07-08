@@ -254,3 +254,11 @@ beyond this, all I have left is wiring. First, I will create a hole in the RPI c
 ![image](https://github.com/user-attachments/assets/894ebd59-03f5-4807-a5d5-a17b538ea2ed)
 ![image](https://github.com/user-attachments/assets/3048d6f1-7ba9-4eb1-a7ba-34f0ae8cfae9)
 ![image](https://github.com/user-attachments/assets/1b5b1a5b-f755-4968-8db6-a2257a0c1940)
+
+ 7/8/25
+I decided to add measures against the high sounds the printer creates, as it makes it harder for me to sleep. First, I decided to add foam balls, due to therir springiness and ability to absorb viberations. 
+
+Here is the foam ball holder![image](https://github.com/user-attachments/assets/72a8365b-ce27-410d-bf5d-f75b7c9de5d7)
+![image](https://github.com/user-attachments/assets/874b3abc-b610-4914-b341-641d7fd171d8)
+![image](https://github.com/user-attachments/assets/74d05153-4630-4f8c-87a0-d8d51d3b4930)
+
