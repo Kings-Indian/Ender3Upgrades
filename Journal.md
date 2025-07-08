@@ -7,7 +7,7 @@ created_at: "2025-06-25"
 
 # Raspberry Pi Magnetic PETG Case
 
-**Total time spent: 21h**
+**Total time spent: 23.5h**
 
 ## Goal
 Design and print a custom **PETG case for my Ender 3** focused on cooling and modularity.  
@@ -34,7 +34,7 @@ Added holes to embed **neodymium magnets** for tool-less assembly:
 ![Magneto](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
 ![Neodymium Magnets](https://github.com/user-attachments/assets/60aa222c-18e8-44f1-af43-2551c76b5584)
 
-**Total time spent: 3h**
+**Total time spent: 2h**
 
 ---
 
@@ -48,9 +48,11 @@ Added alignment tabs to ensure proper assembly and prevent misalignment:
 ![Alignment Tab](https://github.com/user-attachments/assets/55e59318-e8b3-46a4-9afb-e8d176820762)  
 ![Tab Slot](https://github.com/user-attachments/assets/8d78f0bc-efd2-40da-b093-30ab285be5a5)
 
-**Total time spent: 2h**
+**Total time spent: 1h**
 
-### 6/26/2025 
+---
+
+# June 26th: Raspberry Pi Space and Top Cover
 
 #### space for pi 
 ![Side Panel](https://github.com/user-attachments/assets/24354a62-7fb9-4df8-8bf4-b49d51dd03f6)
@@ -61,11 +63,11 @@ Designed the top cover to complete the enclosure:
 Added specific Pi mount holes for secure mounting:  
 ![RPi Holes](https://github.com/user-attachments/assets/a10bafca-de03-4d51-933a-a2e635011476)
 
-**Total time spent: 2h**
+**Total time spent: 1h**
 
 ---
 
-## Cable Management
+# June 26th: Cable Management
 
 Removed material for easier cable access to make installation and maintenance simpler:  
 ![Cable Opening](https://github.com/user-attachments/assets/90cd0a44-a664-41f1-b0b8-834a8f0094bc)  
@@ -81,7 +83,7 @@ Here's how it looks assembled:
 
 ---
 
-## LED Integration
+# June 26th: LED Integration
 
 Planned to add rails for WS2812B LED strips to add some nice ambient lighting to the setup:  
 ![LED Rails](https://github.com/user-attachments/assets/73b76ade-cd06-446a-8979-976c9e1852ac)  
@@ -98,6 +100,11 @@ Had some issues with the LED slide design initially. After brainstorming, I real
 ![LED Rail Design](https://github.com/user-attachments/assets/078cb473-4579-43cc-a03d-5535191a0fc1)
 
 **Total time spent: 1h**
+
+---
+
+# June 27th: Screen Mount Design
+
 For the screen, I couldn't find the exact model online. I based my design on this similar model. While I am using 
 [Waveshare 4.3" HDMI LCD-B](https://www.waveshare.com/4.3inch-HDMI-LCD-B.htm), the model is of https://www.waveshare.com/4.3inch-dsi-lcd.htm
 ![image](https://github.com/user-attachments/assets/b7ad5964-fbdf-43c8-bb91-b195f933497e)
@@ -113,22 +120,26 @@ After applying **fillets to all edges**, final design complete:
 ![image](https://github.com/user-attachments/assets/7a48b7cb-0c8e-43d6-abef-eef99822f65b)  
 ![image](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
 
-**Total time spent: 5h**
+**Total time spent: 2h**
 
+---
 
-# June 28th: I realised instead of gluing it in, I can print over it by simply adding a "stop" command in klipper!
+# June 28th: Klipper Integration for Magnet Covers
+
+I realised instead of gluing it in, I can print over it by simply adding a "stop" command in klipper!
 
 Firs,t I added a variable of the amt of layers of PLA. For now, for 2 layers, im using 0.4 mm. With too much layers, im scared of loss of magnetic connection. Then, Ill just cover it as such:
 
 ![image](https://github.com/user-attachments/assets/6587d8e9-1090-4525-8269-6792d2dfc911)
 ![image](https://github.com/user-attachments/assets/fc2bb48c-292c-404d-9a8b-ca3882056373)
 
-
 [insert pictures of what you're working on!]
 
-**Total time spent: .5h**
+**Total time spent: 0.5h**
 
-6/29/2024
+---
+
+# June 29th: Design Refinements
 
 I realised how bad this cover is. I believe it deserves more love
 ![image](https://github.com/user-attachments/assets/d6439985-69f3-470a-b89c-7e9e84a51a1c) (this one is fine )
@@ -147,7 +158,12 @@ I then fixed up the assembly once more:
 ![image](https://github.com/user-attachments/assets/6e07dfd6-8b01-4877-a369-e2f6e5e0fa34)
 
 ![image](https://github.com/user-attachments/assets/89b34f58-6893-455c-9d8f-89ca73dbde79)
+
 **Total time spent: 1.5h**
+
+---
+
+# June 29th: Camera Mount Planning
 
 I also decided to add camera mounts and leds to the printer for lighting.
 After a lot of thought, I will start modeling the Rasberry Pi 3 camera mount. Although the right side is easier to model with, soley due to my current setup I am modeling everything on the left. 
@@ -167,8 +183,12 @@ I chose the Raspberry Pi Camera Module 3 over the other Pi models because it del
 ![FOV at 60 degrees](https://github.com/user-attachments/assets/3c99858a-5a5b-43f2-a401-7f626624580e)
 
 Regardless, I will design this at 90 degrees for now since rotation is always possible. 
-2 hours
-7/6/2025
+
+**Total time spent: 2h**
+
+---
+
+# July 6th: Camera Mount Design
 
 I decided to model it at the 20 degrees (I saw the FOV wrong) with 20 degrees of mobility in both directions. Long term, I will likely use a non adjustAbble mount 
 
@@ -191,7 +211,12 @@ I will fasten it with a 40 mm m3 screw
 
 ![image](https://github.com/user-attachments/assets/1564c699-4e36-489c-aacd-cf5f6c2bc5e8)
 
-7/7/25
+**Total time spent: 2h**
+
+---
+
+# July 7th: Camera Mount Finalization
+
 This is the finalized rotating camera mount
 ![image](https://github.com/user-attachments/assets/518eac79-77e2-416b-b378-e872ebfad1dc)
 
@@ -200,7 +225,6 @@ This is the finalized rotating camera mount
 I decided to change tghe adjustabilty so the bottom angle is 20 degrees isnteadof 40:
 
 ![image](https://github.com/user-attachments/assets/308a7edf-a3ff-4d6b-9980-6bc48546c4bf)
-
 
 ![image](https://github.com/user-attachments/assets/cdfdac68-9f58-4746-a88d-dfe72d2ad9f8)
 
@@ -248,17 +272,30 @@ After applying fillets, it should be done:
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/70696913-9932-4444-a801-dac6a6eb2029" />
 
 ![image](https://github.com/user-attachments/assets/4d950745-fe28-412c-8d15-13398029e5e2)
-beyond this, all I have left is wiring. First, I will create a hole in the RPI case for the SK6812 LEDS:
 
+**Total time spent: 3h**
+
+---
+
+# July 7th: Wiring and LED Integration
+
+beyond this, all I have left is wiring. First, I will create a hole in the RPI case for the SK6812 LEDS:
 
 ![image](https://github.com/user-attachments/assets/894ebd59-03f5-4807-a5d5-a17b538ea2ed)
 ![image](https://github.com/user-attachments/assets/3048d6f1-7ba9-4eb1-a7ba-34f0ae8cfae9)
 ![image](https://github.com/user-attachments/assets/1b5b1a5b-f755-4968-8db6-a2257a0c1940)
 
- 7/8/25
-I decided to add measures against the high sounds the printer creates, as it makes it harder for me to sleep. First, I decided to add foam balls, due to therir springiness and ability to absorb viberations. 
+**Total time spent: 1h**
+
+---
+
+# July 8th: Sound Dampening with Foam Balls
+
+I decided to add measures against the high sounds the printer creates, as it makes it harder for me to sleep. First, I decided to add 2 inch foam balls, due to therir springiness and ability to absorb viberations. 
 
 Here is the foam ball holder![image](https://github.com/user-attachments/assets/72a8365b-ce27-410d-bf5d-f75b7c9de5d7)
 ![image](https://github.com/user-attachments/assets/874b3abc-b610-4914-b341-641d7fd171d8)
 ![image](https://github.com/user-attachments/assets/74d05153-4630-4f8c-87a0-d8d51d3b4930)
+
+**Total time spent: 1h**
 
