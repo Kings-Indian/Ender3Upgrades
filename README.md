@@ -19,22 +19,16 @@ I needed a reliable cooling solution for my Raspberry Pi Zero 2 W that was runni
 
 ## Project Pictures
 
-### Main Case Assembly
-![Main Case Layout](https://github.com/user-attachments/assets/7193a171-dd17-445b-868b-73dc5ac8ab1e)
-![Fan Case Design](https://github.com/user-attachments/assets/78e39d88-5e31-4a4e-aadd-7964a1cf9395)
-![Magnetic Attachment System](https://github.com/user-attachments/assets/c47df648-fc2f-4a52-8aad-9ebf089d2874)
-
-### Screen Mount
-![Screen Mount Design](https://github.com/user-attachments/assets/7a48b7cb-0c8e-43d6-abef-eef99822f65b)
-![Screen Mount Assembly](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
+### Main Case and Screen Assembly
+![Main Case Layout](https://github.com/user-attachments/assets/5af6afa8-bf43-4eae-879b-342f3800ba49)
+)
 
 ### Camera Integration
-![Camera Mount Design](https://github.com/user-attachments/assets/404f0453-2af2-407c-8ca0-16a1fee1cf67)
-![Camera Mount Assembly](https://github.com/user-attachments/assets/518eac79-77e2-416b-b378-e872ebfad1dc)
+![image](https://github.com/user-attachments/assets/51e10a9a-5f24-45f4-b114-72786f383d59)
 
-### LED Lighting System
-![LED Rails](https://github.com/user-attachments/assets/73b76ade-cd06-446a-8979-976c9e1852ac)
-![LED Sleeve Design](https://github.com/user-attachments/assets/bc417eec-dc10-4ed7-b65b-c22badb7a069)
+![image](https://github.com/user-attachments/assets/6af93df9-b87d-4129-8cf3-f349af5c587f)
+
+
 
 ## Wiring Diagram
 
@@ -57,8 +51,7 @@ Raspberry Pi Zero 2 W
 └── GND → Fan GND
 
 Camera Module 3
-├── Camera Port → Raspberry Pi Zero 2 W
-└── Power → Supplied via camera port
+└── Camera Port → Raspberry Pi Zero 2 W
 ```
 
 ## Installation
