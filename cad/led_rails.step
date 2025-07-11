@@ -1,7 +1,0 @@
-# This is a placeholder for the LED rails STEP file
-# The actual STEP file should be exported from your CAD software
-# and contain the 3D model of the LED strip mounting rails with:
-# - WS2812B strip mounting channels
-# - Neodymium magnet attachment points
-# - Cable routing paths
-# - Removable design for easy maintenance 
