@@ -1,13 +1,14 @@
-Item,Description,Quantity,Part Number,Supplier,Notes
-1,Raspberry Pi Zero 2 W,1,RPI-ZERO2-W,Official Raspberry Pi Store,Main computer board
-2,30mm x 30mm Cooling Fan,2,30x30x10mm,Amazon/Adafruit,Dual fans for cooling
-3,Neodymium Magnets (6mm x 2mm),8,N35-6x2mm,Amazon,For magnetic attachment
-4,WS2812B LED Strip,1,WS2812B-60LED/m,Adafruit/Amazon,RGB lighting
-5,Waveshare 4.3" HDMI LCD-B,1,4.3inch-HDMI-LCD-B,Waveshare,Display screen
-6,PETG Filament (1.75mm),1,1kg spool,Any 3D printer supplier,For 3D printing case parts
-7,M3 Screws (10mm),4,M3x10,McMaster-Carr,For mounting components
-8,M3 Nuts,4,M3,McMaster-Carr,For securing screws
-9,Micro HDMI Cable,1,Micro HDMI to HDMI,Amazon,For screen connection
-10,Micro USB Cable,1,Micro USB to USB,Amazon,For power supply
-11,GPIO Header Pins,1,40-pin header,Adafruit,For LED strip connection
-12,Heat Set Inserts (M3),4,M3 heat set,McMaster-Carr,For threaded inserts in 3D printed parts 
+Item Name,Description,Price (USD),Quantity,Link
+Transparent PETG Filament,Polymaker Transparent PETG Filament 1.75mm,22.99,1,https://www.amazon.com/dp/B09DKMCNMW?tag=all3dptrx00131-20&th=1
+30mm 5V Fans,WINSINN RGB 30mmx10mm Fans (Pack of 4),8.99,1,https://www.amazon.com/dp/B07S87LZ2H
+Touchscreen LCD,Waveshare 4.3" Capacitive Touchscreen 800×480 HDMI,53.99,1,https://www.amazon.com/dp/B0CZ57D1KS
+Neodymium Magnets,5mm x 3mm Mini Magnets (60 pack),3.99,1,https://www.amazon.com/dp/B07F68YN2K
+Raspberry Pi,Raspberry Pi Board,26.99,1,https://www.amazon.com/dp/B0DRRRZBMP
+WS2812B LED Strip,3.3ft LED Strip 60LEDs/m WS2812B,6.99,1,https://www.amazon.com/dp/B07QG8TL26
+Threaded Inserts,400pcs Brass Heat Set Inserts Assortment Kit,13.49,1,https://www.amazon.com/dp/B0C1SJ4YXR
+M3 Screws (Pi Mount),420pcs M3x30–50mm Hex Screws/Nuts Kit,9.99,1,https://www.amazon.com/dp/B0BFQQ6H7R
+M4 Screws (Camera Mount),30pcs M4x12mm Socket Head Screws,5.35,1,https://www.amazon.com/dp/B08NTY73V5
+Pi Camera,Arducam Camera Module 3 (IMX708 Autofocus),22.00,1,https://www.amazon.com/dp/B0C75GRW5M
+Camera Ribbon Cable,UeeKKoo DSI 22Pin to 15Pin Cable 500mm,4.99,1,https://www.amazon.com/dp/B0CR1PQF7M
+RGBW LED Strip,SK6812 RGB+Cool White 144LEDs/m 3.3ft Strip,25.99,1,https://www.amazon.com/dp/B07X2LZVMS
+Foam Balls,Zugar Land Galaxy Foam Stress Relief Balls (4 Pack),6.99,1,https://www.amazon.com/dp/B086D1Z48R
