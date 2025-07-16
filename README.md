@@ -54,62 +54,23 @@ Camera Module 3
 └── Camera Port → Raspberry Pi Zero 2 W
 ```
 
-## Installation
-
-1. **Print the Case Parts**: Use PETG filament for best results and durability
-2. **Insert Magnets**: Press neodymium magnets into the designated holes
-3. **Mount Raspberry Pi**: Secure the Pi using M3 screws and heat set inserts
-4. **Install Fans**: Connect and mount the 30mm cooling fans
-5. **Add LED Strips**: Mount WS2812B strip to the magnetic rails and SK6812 strip to the printer
-6. **Attach Screen**: Mount the Waveshare LCD to the screen mount
-7. **Install Camera**: Mount the Raspberry Pi Camera Module 3 to the adjustable mount
-8. **Add Sound Dampening**: Install foam balls in the designated holders
-9. **Connect Cables**: Route all cables through the designated holes
-10. **Configure Klipper**: Set up the magnet cover printing parameters
-
-## CAD Source Files
-
-The CAD source files are available in the `cad/` directory:
-- `case_main.step` - Main case body
-- `case_top.step` - Top cover with screen mount
-- `fan_grill.step` - Fan grill design
-- Additional components available upon request
 
 ## Bill of Materials (BOM)
-
-| Item | Description | Quantity | Part Number | Supplier | Notes |
-|------|-------------|----------|-------------|----------|-------|
-| 1 | Raspberry Pi Zero 2 W | 1 | RPI-ZERO2-W | Official Raspberry Pi Store | Main computer board |
-| 2 | 30mm x 30mm Cooling Fan | 2 | 30x30x10mm | Amazon/Adafruit | Dual fans for cooling |
-| 3 | Neodymium Magnets (6mm x 2mm) | 8 | N35-6x2mm | Amazon | For magnetic attachment |
-| 4 | WS2812B LED Strip | 1 | WS2812B-60LED/m | Adafruit/Amazon | RGB lighting for case |
-| 5 | SK6812 RGBW LED Strip | 1 | SK6812-144/m | BTF-LIGHTING | Printer illumination |
-| 6 | Waveshare 4.3" HDMI LCD-B | 1 | 4.3inch-HDMI-LCD-B | Waveshare | Display screen |
-| 7 | Raspberry Pi Camera Module 3 | 1 | Camera Module 3 | Official Raspberry Pi Store | 4K timelapse camera |
-| 8 | PETG Filament (1.75mm) | 1 | 1kg spool | Any 3D printer supplier | For 3D printing case parts |
-| 9 | M3 Screws (10mm) | 6 | M3x10 | McMaster-Carr | For mounting components |
-| 10 | M3 Screws (40mm) | 1 | M3x40 | McMaster-Carr | For camera mount |
-| 11 | M3 Nuts | 6 | M3 | McMaster-Carr | For securing screws |
-| 12 | Micro HDMI Cable | 1 | Micro HDMI to HDMI | Amazon | For screen connection |
-| 13 | Micro USB Cable | 1 | Micro USB to USB | Amazon | For power supply |
-| 14 | GPIO Header Pins | 1 | 40-pin header | Adafruit | For LED strip connection |
-| 15 | Heat Set Inserts (M3) | 4 | M3 heat set | McMaster-Carr | For threaded inserts |
-| 16 | Foam Balls (2 inch) | 4 | 2" foam balls | Amazon | Sound dampening |
-| 17 | Camera Cable | 1 | Camera Module 3 cable | Official Raspberry Pi Store | Camera connection |
-
-## Technical Specifications
-
-- **Case Material**: PETG (Polyethylene Terephthalate Glycol)
-- **Print Settings**: 0.4mm nozzle, 0.2mm layer height, 100% infill for structural parts
-- **Magnetic Force**: N35 neodymium magnets provide secure attachment
-- **Camera Mount**: Adjustable ±20° rotation for optimal positioning
-- **LED Integration**: WS2812B for case lighting, SK6812 RGBW for printer illumination
-- **Sound Dampening**: 2-inch foam balls reduce vibration and noise
-- **Compatibility**: Ender 3 series printers with 2020 extrusion profiles
-
-## Development Time
+| Item No. | Product Name | Amazon Link | Quantity | Cost (USD) | Notes | Running Total (USD) |
+|----------|--------------|-------------|----------|------------|-------|---------------------|
+| 1 | Transparent Polymaker PETG Filament | [Link](https://www.amazon.com/dp/B09DKMCNMW?tag=all3dptrx00131-20&th=1) | 1 | $22.99 | Clear PETG filament for 3D printing | $22.99 |
+| 2 | WINSINN 30mm RGB Fan 5V (Pack of 4Pcs) | [Link](https://www.amazon.com/WINSINN-Hydraulic-Bearing-Brushless-30x10mm/dp/B087QDRKW9/) | 1 | $8.99 | RGB micro fans for electronics/3D printing | $31.98 |
+| 3 | Waveshare 4.3inch Capacitive Touch Screen LCD | [Link](https://www.amazon.com/4-3inch-HDMI-LCD-Resolution-Capacitive/dp/B07MB9MYYS/) | 1 | $53.99 | Touch display compatible with Raspberry Pi | $85.97 |
+| 4 | Neodymium Magnets 5mm x 3mm (60 Pack) | [Link](https://www.amazon.com/Magnets-Multi-use-Refrigerator-Neodymium-Whiteboard/dp/B0BJDZRHV7/) | 1 | $3.99 | Mini magnets for mounting and DIY | $89.96 |
+| 5 | Raspberry Pi 5 | [Link](https://www.amazon.com/dp/B0DRRRZBMP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) | 1 | $26.99 | Main single-board controller | $116.95 |
+| 6 | SEZO WS2812B LED Strip Light 1M | [Link](https://www.amazon.com/SEZO-Individually-Addressable-Programmable-Non-Waterproof/dp/B097BX7LRT/) | 1 | $6.99 | Addressable RGB LED strip for effects | $123.94 |
+| 7 | Ktehloy 400Pcs Threaded Inserts | [Link](https://www.amazon.com/mxuteuk-420PCS-Screws-Socket-Wrench/dp/B0CSWD34KJ/) | 1 | $13.49 | Brass heat-set inserts for plastic parts | $137.43 |
+| 8 | mxuteuk M3 Screws Kit (420PCS) | [Link](https://www.amazon.com/TOP-VIGOR-Machine-Fastener-Motorcycle-Repairment/dp/B0D5CJXW8X/) | 1 | $9.99 | Assorted M3 screws for Pi and mounts | $147.42 |
+| 9 | TOP-VIGOR M4-0.7 x 12mm Socket Screws (30PCS) | [Link](https://www.amazon.com/TOP-VIGOR-Machine-Fastener-Motorcycle-Repairment/dp/B0D5CJXW8X/) | 1 | $5.35 | Screws for camera mounting | $152.77 |
+| 10 | Arducam Raspberry Pi Camera Module 3 | [Link](https://www.amazon.com/Arducam-Raspberry-Camera-Autofocus-15-22pin/dp/B0C9PYCV9S/) | 1 | $22.00 | 12MP autofocus camera for Pi | $174.77 |
+| 11 | UeeKKoo DSI FPC Flexible Cable | [Link](https://www.amazon.com/UeeKKoo-Flexible-Raspberry-Display-Suitable/dp/B0D12TMQ6D/) | 1 | $4.99 | Ribbon cable for Raspberry Pi display | $179.76 |
+| 12 | BTF-LIGHTING SK6812 RGBW LED Strip 1M | [Link](https://www.amazon.com/BTF-LIGHTING-Individually-Addressable-Flexible-Non-waterproof/dp/B079ZT9Q9X/) | 1 | $25.99 | RGBW LED strip with addressable control | $205.75 |
+| 13 | Zugar Land Galaxy Foam Stress Balls (4 Pack) | [Link](https://www.amazon.com/Zugar-Land-Squeeze-Relaxable-Calming/dp/B0CZS91TNW/) | 1 | $6.99 | Stress relief or soft bumper component | $212.74 |
 
 Total project development time: **23.5 hours**
-- Design and modeling: 15 hours
-- Testing and refinement: 5 hours
-- Documentation and optimization: 3.5 hours
+
