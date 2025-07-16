@@ -29,8 +29,6 @@ I needed a reliable cooling solution for my Raspberry Pi Zero 2 W that was runni
 ### LED Lighting System
 <img width="847" height="1001" alt="image" src="https://github.com/user-attachments/assets/7326cf10-3d1c-447a-8738-962688b31810" />
 
-<img width="847" height="1001" alt="image" src="https://github.com/user-attachments/assets/d54552fe-eb3f-4e7c-b3d6-088e05995c58" />
-
 
 ## Wiring Diagram
 
@@ -62,8 +60,7 @@ Strip Data
 
 ## Bill of Materials (BOM)<img width="1018" height="674" alt="463837668-74d05153-4630-4f8c-87a0-d8d51d3b4930" src="https://github.com/user-attachments/assets/699dad79-dde0-4d9c-93ef-befc49b54471" />
 
-| Item No. | Product Name |<img width="1018" height="674" alt="463837668-74d05153-4630-4f8c-87a0-d8d51d3b4930" src="https://github.com/user-attachments/assets/8e766330-df27-4cc5-8351-c0f83a1cc0bc" />
- Amazon Link | Quantity | Cost (USD) | Notes | Running Total (USD) |
+| Item No. | Product Name | Amazon Link | Quantity | Cost (USD) | Notes | Running Total (USD) |
 |----------|--------------|-------------|----------|------------|-------|---------------------|
 | 1 | Transparent Polymaker PETG Filament | [Link](https://www.amazon.com/dp/B09DKMCNMW?tag=all3dptrx00131-20&th=1) | 1 | $22.99 | Clear PETG filament for 3D printing | $22.99 |
 | 2 | WINSINN 30mm RGB Fan 5V (Pack of 4Pcs) | [Link](https://www.amazon.com/WINSINN-Hydraulic-Bearing-Brushless-30x10mm/dp/B087QDRKW9/) | 1 | $8.99 | RGB micro fans for electronics/3D printing | $31.98 |
