@@ -32,14 +32,6 @@ I needed a reliable cooling solution for my Raspberry Pi Zero 2 W that was runni
 
 ## Wiring Diagram
 
-
-![Wiring Diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f8846a695e038cd5c8294e7fe0daab3fec1c36e_image.png)
-
-
-## Wiring Diagram
-
-Since this project uses standard connections without a custom PCB, here's the comprehensive wiring setup:
-
 ```
 Raspberry Pi Zero 2 W
 ├── GPIO 18 → WS2812B LED Strip Data (printer lighting)
@@ -56,10 +48,13 @@ Strip Data
 ├──  GND → Fan GND
 └── Micro USB → Power Supply
 ```
+![Wiring Diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f8846a695e038cd5c8294e7fe0daab3fec1c36e_image.png)
+
+)<img width="1018" height="674" alt="463837668-74d05153-4630-4f8c-87a0-d8d51d3b4930" src="https://github.com/user-attachments/assets/699dad79-dde0-4d9c-93ef-befc49b54471" />
 
 
-## Bill of Materials (BOM)<img width="1018" height="674" alt="463837668-74d05153-4630-4f8c-87a0-d8d51d3b4930" src="https://github.com/user-attachments/assets/699dad79-dde0-4d9c-93ef-befc49b54471" />
 
+## Bill of Materials (BOM
 | Item No. | Product Name | Amazon Link | Quantity | Cost (USD) | Notes | Running Total (USD) |
 |----------|--------------|-------------|----------|------------|-------|---------------------|
 | 1 | Transparent Polymaker PETG Filament | [Link](https://www.amazon.com/dp/B09DKMCNMW?tag=all3dptrx00131-20&th=1) | 1 | $22.99 | Clear PETG filament for 3D printing | $22.99 |
