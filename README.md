@@ -20,14 +20,28 @@ I needed a reliable cooling solution for my Raspberry Pi Zero 2 W that was runni
 ## Project Pictures
 
 ### Main Case and Screen Assembly
-![Main Case Layout](https://github.com/user-attachments/assets/5af6afa8-bf43-4eae-879b-342f3800ba49)
-)
+
+### Main Case and Screen Assembly
+![Main Case Layout](https://github.com/user-attachments/assets/7193a171-dd17-445b-868b-73dc5ac8ab1e)
+
+
+### Screen Mount
+![Screen Mount Design](https://github.com/user-attachments/assets/7a48b7cb-0c8e-43d6-abef-eef99822f65b)
+![Screen Mount Assembly](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
 
 ### Camera Integration
-![image](https://github.com/user-attachments/assets/51e10a9a-5f24-45f4-b114-72786f383d59)
+![Camera Mount Design](https://github.com/user-attachments/assets/404f0453-2af2-407c-8ca0-16a1fee1cf67)
+![Camera Mount Assembly](https://github.com/user-attachments/assets/518eac79-77e2-416b-b378-e872ebfad1dc)
 
-![image](https://github.com/user-attachments/assets/6af93df9-b87d-4129-8cf3-f349af5c587f)
+### LED Lighting System
+![LED Rails](https://github.com/user-attachments/assets/73b76ade-cd06-446a-8979-976c9e1852ac)
+![LED Sleeve Design](https://github.com/user-attachments/assets/bc417eec-dc10-4ed7-b65b-c22badb7a069)
 
+## Wiring Diagram
+
+ [Wiring Guide](wiring.md).
+
+![Wiring Diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8f8846a695e038cd5c8294e7fe0daab3fec1c36e_image.png)
 
 
 ## Wiring Diagram
@@ -36,22 +50,18 @@ Since this project uses standard connections without a custom PCB, here's the co
 
 ```
 Raspberry Pi Zero 2 W
-├── GPIO 18 → WS2812B LED Strip Data
-├── GPIO 21 → SK6812 RGBW Strip Data (printer lighting)
+├── GPIO 18 → WS2812B LED Strip Data (printer lighting)
+├── GPIO 21 → SK6812 RGBW Strip Data 
 ├── 5V → WS2812B LED Strip VCC
-├── 5V → SK6812 RGBW Strip VCC
+├── External 5V → SK6812 RGBW Strip VCC
 ├── GND → WS2812B LED Strip GND
+├── External GND → SK6812 LED Strip GND
 ├── GND → SK6812 RGBW Strip GND
 ├── Micro HDMI → Waveshare 4.3" LCD
 ├── Camera Port → Raspberry Pi Camera Module 3
+├── 5v →  Fan VCC
+├──  GND → Fan GND
 └── Micro USB → Power Supply
-
-30mm Fans (2x)
-├── 5V → Fan VCC
-└── GND → Fan GND
-
-Camera Module 3
-└── Camera Port → Raspberry Pi Zero 2 W
 ```
 
 
