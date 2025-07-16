@@ -1,17 +1,14 @@
-Item Name,Description,Price (USD),Quantity,Link
-Transparent PETG Filament,Polymaker Transparent PETG Filament 1.75mm,22.99,1,https://www.amazon.com/dp/B09DKMCNMW?tag=all3dptrx00131-20&th=1
-30mm 5V Fans,WINSINN RGB 30mmx10mm Fans (Pack of 4),8.99,1,https://www.amazon.com/dp/B07S87LZ2H
-Touchscreen LCD,Waveshare 4.3 inch Capacitive Touchscreen 800×480 HDMI,53.99,1,https://www.amazon.com/dp/B0CZ57D1KS
-Neodymium Magnets,5mm x 3mm Mini Magnets (60 pack),3.99,1,https://www.amazon.com/dp/B07F68YN2K
-Raspberry Pi,Raspberry Pi Board,26.99,1,https://www.amazon.com/dp/B0DRRRZBMP
-WS2812B LED Strip,3.3ft LED Strip 60LEDs/m WS2812B,6.99,1,https://www.amazon.com/dp/B07QG8TL26
-Threaded Inserts,400pcs Brass Heat Set Inserts Assortment Kit,13.49,1,https://www.amazon.com/dp/B0C1SJ4YXR
-M3 Screws (Pi Mount),420pcs M3x30–50mm Hex Screws/Nuts Kit,9.99,1,https://www.amazon.com/dp/B0BFQQ6H7R
-M4 Screws (Camera Mount),30pcs M4x12mm Socket Head Screws,5.35,1,https://www.amazon.com/dp/B08NTY73V5
-Pi Camera,Arducam Camera Module 3 (IMX708 Autofocus),22.0,1,https://www.amazon.com/dp/B0C75GRW5M
-Camera Ribbon Cable,UeeKKoo DSI 22Pin to 15Pin Cable 500mm,4.99,1,https://www.amazon.com/dp/B0CR1PQF7M
-RGBW LED Strip,SK6812 RGB+Cool White 144LEDs/m 3.3ft Strip,25.99,1,https://www.amazon.com/dp/B07X2LZVMS
-Foam Balls,Zugar Land Galaxy Foam Stress Relief Balls (4 Pack),6.99,1,https://www.amazon.com/dp/B086D1Z48R
-
-Total Cost (USD),212.74
-Total Cost with NJ Tax (6.625%),226.83
+Item No.,Product Name,Amazon Link,Quantity,Cost (USD),Notes,Running Total (USD)
+1,"Transparent Polymaker PETG Filament","https://www.amazon.com/dp/B09DKMCNMW?tag=all3dptrx00131-20&th=1",1,"$22.99","Clear PETG filament for 3D printing","$22.99"
+2,"WINSINN 30mm RGB Fan 5V (4pcs)","https://www.amazon.com/dp/B09NQP9HQS/",1,"$8.99","Cooling fans with LED for electronics","$31.98"
+3,"Waveshare 4.3inch Capacitive Touch Screen","https://www.amazon.com/dp/B0B8K44VNM/",1,"$53.99","Touch screen for Raspberry Pi or Jetson Nano","$85.97"
+4,"Neodymium Magnets 5mm x 3mm (60pcs)","https://www.amazon.com/dp/B07S87XB2P/",1,"$3.99","Small magnets for mounting components","$89.96"
+5,"Raspberry Pi 5 8GB","https://www.amazon.com/dp/B0DRRRZBMP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1",1,"$26.99","Main processing board","$116.95"
+6,"WS2812B RGB LED Strip 1m","https://www.amazon.com/dp/B07H4G1Q46/",1,"$6.99","Individually addressable LED strip","$123.94"
+7,"Threaded Inserts Assortment Kit (400pcs)","https://www.amazon.com/dp/B0BPK47CL6/",1,"$13.49","Brass heat set inserts for 3D prints","$137.43"
+8,"M3 Screws Assortment Kit (420pcs)","https://www.amazon.com/dp/B082VXVRT2/",1,"$9.99","Steel screws for securing components","$147.42"
+9,"M4-0.7 x 12mm Socket Screws (30pcs)","https://www.amazon.com/dp/B07Y5GJRMG/",1,"$5.35","Screws for camera mount or mechanical attachments","$152.77"
+10,"Arducam Raspberry Pi Camera Module 3","https://www.amazon.com/dp/B0CJ7K1B9R/",1,"$22.00","Autofocus camera for Raspberry Pi","$174.77"
+11,"UeeKKoo DSI Display Ribbon Cable","https://www.amazon.com/dp/B0CPT1GXFJ/",1,"$4.99","Flexible ribbon cable for DSI display","$179.76"
+12,"SK6812 RGBW LED Strip 1m","https://www.amazon.com/dp/B0819KJ3TJ/",1,"$25.99","RGBW LED strip for lighting effects","$205.75"
+13,"Galaxy Foam Stress Balls (4 Pack)","https://www.amazon.com/dp/B0BHLG9ZMT/",1,"$6.99","Stress relief or bumper material","$212.74"
