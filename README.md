@@ -61,7 +61,7 @@ Strip Data
 | 2 | WINSINN 30mm RGB Fan 5V (Pack of 4Pcs) | [Link](https://www.amazon.com/WINSINN-Hydraulic-Bearing-Brushless-30x10mm/dp/B087QDRKW9/) | 1 | $8.99 | RGB micro fans for electronics/3D printing | $31.98 |
 | 3 | Waveshare 4.3inch Capacitive Touch Screen LCD | [Link](https://www.amazon.com/4-3inch-HDMI-LCD-Resolution-Capacitive/dp/B07MB9MYYS/) | 1 | $53.99 | Touch display compatible with Raspberry Pi | $85.97 |
 | 4 | Neodymium Magnets 5mm x 3mm (60 Pack) | [Link](https://www.amazon.com/Magnets-Multi-use-Refrigerator-Neodymium-Whiteboard/dp/B0BJDZRHV7/) | 1 | $3.99 | Mini magnets for mounting and DIY | $89.96 |
-| 5 | Raspberry Pi 5 | [Link](https://www.amazon.com/dp/B0DRRRZBMP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) | 1 | $26.99 | Main single-board controller | $116.95 |
+| 5 | Raspberry Pi 02w | [Link](https://www.amazon.com/dp/B0DRRRZBMP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) | 1 | $26.99 | Main single-board controller | $116.95 |
 | 6 | SEZO WS2812B LED Strip Light 1M | [Link](https://www.amazon.com/SEZO-Individually-Addressable-Programmable-Non-Waterproof/dp/B097BX7LRT/) | 1 | $6.99 | Addressable RGB LED strip for effects | $123.94 |
 | 7 | Ktehloy 400Pcs Threaded Inserts | [Link](https://www.amazon.com/mxuteuk-420PCS-Screws-Socket-Wrench/dp/B0CSWD34KJ/) | 1 | $13.49 | Brass heat-set inserts for plastic parts | $137.43 |
 | 8 | mxuteuk M3 Screws Kit (420PCS) | [Link](https://www.amazon.com/TOP-VIGOR-Machine-Fastener-Motorcycle-Repairment/dp/B0D5CJXW8X/) | 1 | $9.99 | Assorted M3 screws for Pi and mounts | $147.42 |
