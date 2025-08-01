@@ -7,7 +7,7 @@ created_at: "2025-06-25"
 
 # Raspberry Pi Magnetic PETG Case
 
-**Total time spent: 23.5h**
+**Total time spent: 24.5h**
 
 ## Goal
 Design and print a custom **PETG case for my Ender 3** focused on cooling and modularity.  
@@ -298,4 +298,13 @@ Here is the foam ball holder![image](https://github.com/user-attachments/assets/
 ![image](https://github.com/user-attachments/assets/74d05153-4630-4f8c-87a0-d8d51d3b4930)
 
 **Total time spent: 1h**
+8/1/25
+
+turns out I caznt drill, 3d printing this thing 
+
+<img width="1166" height="783" alt="image" src="https://github.com/user-attachments/assets/8a466718-4e53-484f-b256-ec8dbc8abaf3" />
+<img width="684" height="614" alt="image" src="https://github.com/user-attachments/assets/37d596cf-59b5-4c84-aea3-8a056f0ae5e3" />
+
+time spent: 1h
+
 
