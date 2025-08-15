@@ -298,13 +298,31 @@ Here is the foam ball holder![image](https://github.com/user-attachments/assets/
 ![image](https://github.com/user-attachments/assets/74d05153-4630-4f8c-87a0-d8d51d3b4930)
 
 **Total time spent: 1h**
-8/1/25
 
-turns out I caznt drill, 3d printing this thing 
 
-<img width="1166" height="783" alt="image" src="https://github.com/user-attachments/assets/8a466718-4e53-484f-b256-ec8dbc8abaf3" />
-<img width="684" height="614" alt="image" src="https://github.com/user-attachments/assets/37d596cf-59b5-4c84-aea3-8a056f0ae5e3" />
+# July 8th: Sound Dampening with Foam Balls
 
-time spent: 1h
+I decided to add measures against the high sounds the printer creates, as it makes it harder for me to sleep. First, I decided to add 2 inch foam balls, due to therir springiness and ability to absorb viberations. 
 
+Here is the foam ball holder![image](https://github.com/user-attachments/assets/72a8365b-ce27-410d-bf5d-f75b7c9de5d7)
+![image](https://github.com/user-attachments/assets/874b3abc-b610-4914-b341-641d7fd171d8)
+![image](https://github.com/user-attachments/assets/74d05153-4630-4f8c-87a0-d8d51d3b4930)
+
+**Total time spent: 1h**
+
+# July 10th: Printing everything
+
+I got everything printed
+**Total time spent: 1h**
+
+# July 11th: Assembled the pi case
+
+I assembled the Pi case! This includes soldering the wires. I also reideraated on the cad to add more space for the pins and female arduino pins. I also assembled the Pi Mount. 
+**Total time spent: 2h**
+
+
+# July 11th: Got the Pi and LEDs Working
+
+I got the macros working! for the camera, i had to get a bit of help, but I got it working as well :) 
+**Total time spent: 1h**
 
