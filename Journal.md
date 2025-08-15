@@ -321,8 +321,22 @@ I assembled the Pi case! This includes soldering the wires. I also reideraated o
 **Total time spent: 2h**
 
 
-# July 11th: Got the Pi and LEDs Working
+# July 26th: Got the Pi and LEDs Working
 
-I got the macros working! for the camera, i had to get a bit of help, but I got it working as well :) 
-**Total time spent: 1h**
+I got the LED macros working! for the camera, i had to get a bit of help, but I got it working as well :) 
+<img width="930" height="495" alt="image" src="https://github.com/user-attachments/assets/423df27b-9bd3-453c-9b0c-81f5976d2d0a" />
+
+**Total time spent: 3h**
+
+# July 27th: Got the Pi and LEDs Working
+
+Finished the assembly: 
+
+<img width="663" height="810" alt="image" src="https://github.com/user-attachments/assets/0e9ae640-738e-40cc-ad7c-2b73b72d2860" />  <img width="651" height="618" alt="image" src="https://github.com/user-attachments/assets/9009f946-5807-4c91-a934-051d8f2670f8" /> <img width="767" height="741" alt="image" src="https://github.com/user-attachments/assets/4381ad34-967e-4906-927e-7a94de2fd27f" />
+<img width="760" height="975" alt="image" src="https://github.com/user-attachments/assets/de029e7c-2325-43b7-bdc7-63a6280eb431" />
+
+
+ 
+**Total time spent: 2h**
+
 
