@@ -73,3 +73,6 @@ Strip Data
 
 Total project development time: **23.5 hours**
 
+**Youtube:**: [Link]([https://youtube.com/shorts/PC3ZzvA6rok]) 
+**Reddit:**: [Link](https://www.reddit.com/r/Hack_Club/comments/1m0td3w/my_first_robot_beginner_tank_drive_based_robot/) 
+
