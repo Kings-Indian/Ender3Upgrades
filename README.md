@@ -76,3 +76,9 @@ Total project development time: **23.5 hours**
 **Youtube:**: [Link]([https://youtube.com/shorts/PC3ZzvA6rok]) 
 **Reddit:**: [Link](https://www.reddit.com/r/Hack_Club/comments/1m0td3w/my_first_robot_beginner_tank_drive_based_robot/) 
 
+
+<img width="663" height="810" alt="image" src="https://github.com/user-attachments/assets/0e9ae640-738e-40cc-ad7c-2b73b72d2860" />  
+<img width="651" height="618" alt="image" src="https://github.com/user-attachments/assets/9009f946-5807-4c91-a934-051d8f2670f8" /> 
+<img width="767" height="741" alt="image" src="https://github.com/user-attachments/assets/4381ad34-967e-4906-927e-7a94de2fd27f" />
+<img width="760" height="975" alt="image" src="https://github.com/user-attachments/assets/de029e7c-2325-43b7-bdc7-63a6280eb431" />
+
