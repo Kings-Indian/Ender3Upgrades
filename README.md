@@ -18,10 +18,18 @@ I needed a reliable cooling solution for my Raspberry Pi Zero 2 W that was runni
 - **Klipper Integration**: Smart magnet cover printing using Klipper firmware
 
 ## Project Pictures
+My current full assembly, in CAD:
+
+<img width="601" height="747" alt="image" src="https://github.com/user-attachments/assets/0924f623-0c9f-49ea-856c-227cce2b0d1c" />
 
 
 ### Screen Mount
-![Screen Mount Assembly](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a)
+![Screen Mount Assembly](https://github.com/user-attachments/assets/a43e7878-2c99-4ef9-893f-4b569aac001a) (only really useful if u don thave a computer connected)
+
+If you have a computer connected to your printer, this is HIGHLY RECOMMENDED: 
+
+<img width="926" height="692" alt="image" src="https://github.com/user-attachments/assets/35dd9f23-f023-4396-997d-48b81b061719" />
+
 
 ### Camera Integration
 ![Camera Mount Assembly](https://github.com/user-attachments/assets/518eac79-77e2-416b-b378-e872ebfad1dc)
