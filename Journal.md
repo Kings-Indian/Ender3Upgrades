@@ -342,6 +342,11 @@ I spent some time soldering the LED strip to a whatever this is <img width="731"
 I got the LED macros working! for the camera, i had to get a bit of help, but I got it working as well :) 
 <img width="930" height="495" alt="image" src="https://github.com/user-attachments/assets/423df27b-9bd3-453c-9b0c-81f5976d2d0a" />
 
+I also soldered the LED strip for the Pi Case, which I did twice because the first time was horrid
+
+<img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/9951aa9f-aae3-4a54-a2bd-29621add72f8" />
+
+<img width="731" height="789" alt="image" src="https://github.com/user-attachments/assets/ea732159-afee-4d7d-87d9-47a1d9a66b48" />
 
 **Total time spent: 3h**
 
@@ -351,7 +356,12 @@ Finished the assembly:
 
 I also printed the feet and slide the foam balls in them :) 
 
-<img width="663" height="810" alt="image" src="https://github.com/user-attachments/assets/0e9ae640-738e-40cc-ad7c-2b73b72d2860" />  <img width="651" height="618" alt="image" src="https://github.com/user-attachments/assets/9009f946-5807-4c91-a934-051d8f2670f8" /> <img width="767" height="741" alt="image" src="https://github.com/user-attachments/assets/4381ad34-967e-4906-927e-7a94de2fd27f" />
+<img width="663" height="810" alt="image" src="https://github.com/user-attachments/assets/0e9ae640-738e-40cc-ad7c-2b73b72d2860" /> 
+
+<img width="651" height="618" alt="image" src="https://github.com/user-attachments/assets/9009f946-5807-4c91-a934-051d8f2670f8" /> 
+
+<img width="767" height="741" alt="image" src="https://github.com/user-attachments/assets/4381ad34-967e-4906-927e-7a94de2fd27f" />
+
 <img width="760" height="975" alt="image" src="https://github.com/user-attachments/assets/de029e7c-2325-43b7-bdc7-63a6280eb431" />
 
 
