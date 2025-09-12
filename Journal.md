@@ -318,19 +318,38 @@ I got everything printed
 # July 11th: Assembled the pi case
 
 I assembled the Pi case! This includes soldering the wires. I also reideraated on the cad to add more space for the pins and female arduino pins. I also assembled the Pi Mount. 
-**Total time spent: 2h**
+
+For the 3d print, I had to melt the magnet into the print a little with a soldering iron.
+
+1. I added the brass threaded inserts
+2. I screwed in the pi to the brass threaded inserts
+3. I cut female-to-female arduino wires in half
+4. I soldered the fan wires to the female ardiono halfs to connect it to the RPI
+
+I also printed the LED bar parts and put them in.
+ **Total time spent: 2h**
 
 
 # July 26th: Got the Pi and LEDs Working
+I got the camera assembled! The assembly was pretty basic, I just put the brass inserts in and snapped them both in place. I screwed in the camera and plugged it in to the RPI 
+
+I spent some time soldering the LED strip to a whatever this is <img width="731" height="918" alt="image" src="https://github.com/user-attachments/assets/ef10c13e-8fb4-48e6-82c4-ba1b7c66bb16" />
+
+<img width="632" height="868" alt="image" src="https://github.com/user-attachments/assets/1b6b88ae-fb4e-42b2-8586-7eab5790d801" />
+
+<img width="612" height="910" alt="image" src="https://github.com/user-attachments/assets/a3ea43c3-70ab-4fb6-a78c-3f227da67f9c" />
 
 I got the LED macros working! for the camera, i had to get a bit of help, but I got it working as well :) 
 <img width="930" height="495" alt="image" src="https://github.com/user-attachments/assets/423df27b-9bd3-453c-9b0c-81f5976d2d0a" />
+
 
 **Total time spent: 3h**
 
 # July 27th: Got the Pi and LEDs Working
 
 Finished the assembly: 
+
+I also printed the feet and slide the foam balls in them :) 
 
 <img width="663" height="810" alt="image" src="https://github.com/user-attachments/assets/0e9ae640-738e-40cc-ad7c-2b73b72d2860" />  <img width="651" height="618" alt="image" src="https://github.com/user-attachments/assets/9009f946-5807-4c91-a934-051d8f2670f8" /> <img width="767" height="741" alt="image" src="https://github.com/user-attachments/assets/4381ad34-967e-4906-927e-7a94de2fd27f" />
 <img width="760" height="975" alt="image" src="https://github.com/user-attachments/assets/de029e7c-2325-43b7-bdc7-63a6280eb431" />
