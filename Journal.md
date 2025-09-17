@@ -333,6 +333,8 @@ I also printed the LED bar parts and put them in. I measured and cut the LED Str
 # July 26th: Got the Pi and LEDs Working
 I got the camera assembled! The assembly was pretty basic, I just put the brass inserts in and snapped them both in place. I screwed in the camera and plugged it in to the RPI. I then attached it to the tensioner part of the ender 3 x axis, and re-tensioned it. 
 
+It turns out, the screw to hold the 2 parts of the camera case isnt needed because the friction of the pressfit is enough to hold it in place. 
+
 I spent some time soldering the LED strip to a whatever this is <img width="731" height="918" alt="image" src="https://github.com/user-attachments/assets/ef10c13e-8fb4-48e6-82c4-ba1b7c66bb16" />
 
 <img width="632" height="868" alt="image" src="https://github.com/user-attachments/assets/1b6b88ae-fb4e-42b2-8586-7eab5790d801" />
@@ -342,7 +344,7 @@ I spent some time soldering the LED strip to a whatever this is <img width="731"
 I got the LED macros working! for the camera, i had to get a bit of help, but I got it working as well :) 
 <img width="930" height="495" alt="image" src="https://github.com/user-attachments/assets/423df27b-9bd3-453c-9b0c-81f5976d2d0a" />
 
-I also soldered the LED strip for the Pi Case, which I did twice because the first time was horrid
+I also soldered the LED strip for the Pi Case, which I did twice because the first time was horrid. 
 
 <img width="540" height="720" alt="image" src="https://github.com/user-attachments/assets/9951aa9f-aae3-4a54-a2bd-29621add72f8" />
 
