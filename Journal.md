@@ -326,12 +326,12 @@ For the 3d print, I had to melt the magnet into the print a little with a solder
 3. I cut female-to-female arduino wires in half
 4. I soldered the fan wires to the female ardiono halfs to connect it to the RPI
 
-I also printed the LED bar parts and put them in.
+I also printed the LED bar parts and put them in. I measured and cut the LED Strip, then slid it in as well. 
  **Total time spent: 2h**
 
 
 # July 26th: Got the Pi and LEDs Working
-I got the camera assembled! The assembly was pretty basic, I just put the brass inserts in and snapped them both in place. I screwed in the camera and plugged it in to the RPI 
+I got the camera assembled! The assembly was pretty basic, I just put the brass inserts in and snapped them both in place. I screwed in the camera and plugged it in to the RPI. I then attached it to the tensioner part of the ender 3 x axis, and re-tensioned it. 
 
 I spent some time soldering the LED strip to a whatever this is <img width="731" height="918" alt="image" src="https://github.com/user-attachments/assets/ef10c13e-8fb4-48e6-82c4-ba1b7c66bb16" />
 
