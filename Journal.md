@@ -360,9 +360,9 @@ I also printed the feet and slide the foam balls in them :)
 
 <img width="663" height="810" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/9a745bc065ec3eb4d876d24f583b3b09b006aa66_img_9202.jpg" /> 
 
-<img width="651" height="618" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/11a49b334445f475b4b8e8eb05e471c5917a759f_img_9203.jpg" /> 
+<img width="962" height="1150" alt="image" src="https://github.com/user-attachments/assets/878bcbef-c102-484e-9ab6-ab6b31bbfba1" />
 
-<img width="767" height="741" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/ce45d9b198359c4e694cd4dac5d387fcde101284_img_9204.jpg" />
+<img width="966" height="738" alt="image" src="https://github.com/user-attachments/assets/8b4c1db8-ff4c-4a8f-a99d-4101c23399a8" />
 
 <img width="760" height="975" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/20f654dbde02f388e358dd08e39ec7f1dc645173_img_9205.jpg" />
 
