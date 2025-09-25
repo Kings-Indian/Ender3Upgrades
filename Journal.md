@@ -366,6 +366,7 @@ I also printed the feet and slide the foam balls in them :)
 
 <img width="760" height="975" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/20f654dbde02f388e358dd08e39ec7f1dc645173_img_9205.jpg" />
 
+<img width="760" height="975" alt="image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/f66540b36aa83f1f4b70683b334d0e938b6391b4_img_9231.jpg" />
 
  
 **Total time spent: 2h**
