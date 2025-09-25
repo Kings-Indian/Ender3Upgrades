@@ -358,7 +358,7 @@ Finished the assembly:
 
 I also printed the feet and slide the foam balls in them :) 
 
-<img width="663" height="810" alt="image" src="https://github.com/user-attachments/assets/0e9ae640-738e-40cc-ad7c-2b73b72d2860" /> 
+<img width="663" height="810" alt="image" src="[https://github.com/user-attachments/assets/0e9ae640-738e-40cc-ad7c-2b73b72d2860](https://hc-cdn.hel1.your-objectstorage.com/s/v3/9a745bc065ec3eb4d876d24f583b3b09b006aa66_img_9202.jpg)" /> 
 
 <img width="651" height="618" alt="image" src="https://github.com/user-attachments/assets/9009f946-5807-4c91-a934-051d8f2670f8" /> 
 
